@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/appendices/code-samples/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/appendices/code-samples/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/appendices/datasets/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/appendices/datasets/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/appendices/hardware-specs/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/appendices/hardware-specs/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/applications/estimate-brpm/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/applications/estimate-brpm/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/applications/human-detection/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/applications/human-detection/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/challenges/challenges/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/challenges/challenges/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/csi-tool/collection-method/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/csi-tool/collection-method/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/csi-tool/what-is-csi/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/csi-tool/what-is-csi/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/csi-tool/what-is-csi_copy/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/csi-tool/what-is-csi_copy/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/data-analysis/preprocessing/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/data-analysis/preprocessing/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/data-analysis/raw-format/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/data-analysis/raw-format/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/data-analysis/visualization/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/data-analysis/visualization/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/data-collection/collecting-csi/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/data-collection/collecting-csi/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/data-collection/esp32-configuration/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/data-collection/esp32-configuration/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/data-collection/physical-layout/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/data-collection/physical-layout/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/future/future-work/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/future/future-work/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/getting-started/environment/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/getting-started/environment/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/getting-started/hardware/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/getting-started/hardware/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/getting-started/software/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/getting-started/software/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/introduction/goals/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/introduction/goals/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/introduction/overview/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/introduction/overview/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/introduction/purpose/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/introduction/purpose/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/introduction/tools/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/introduction/tools/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/optimization/optimizations/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/optimization/optimizations/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/rayiot-admin/wifi/tree/documentation/references/references/</loc>
+         <loc>https://rayiot-admin.github.io/documentation/references/references/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
 </urlset>
